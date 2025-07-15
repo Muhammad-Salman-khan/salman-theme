@@ -1,7 +1,7 @@
 {
   "colors": {
     // ✒️ MAIN EDITOR AREA
-    "editor.background": "#000814", // macOS dark base
+    "editor.background": "#101010e8", // macOS dark base
     "editor.foreground": "#9f4aff",
 
     // 🧭 SIDEBAR
