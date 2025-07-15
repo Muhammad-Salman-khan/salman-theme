@@ -1,16 +1,55 @@
-# salman-theme README
+# Salman Theme
 
-## Working with Markdown
+**A dark, sleek, and modern VS Code theme designed for developers who prefer clean contrast, eye comfort, and visual clarity.**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Salman Theme is crafted to enhance your coding experience with a minimalist aesthetic inspired by macOS vibes and the elegance of popular themes like Chai, Tokyo Night, and One Dark Pro.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+• Beautiful dark UI with focused color balance  
+• Calming editor background for long coding sessions  
+• Clear syntax highlighting for JavaScript, TypeScript, HTML, CSS, and more  
+• Tailored UI elements including tabs, activity bar, and sidebar  
+• Optimized for full-stack developers and modern workflows
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+If you have the `.vsix` file:
+
+1. Open VS Code
+2. Press `Ctrl+Shift+P` and select `Extensions: Install from VSIX`
+3. Choose `salman-theme-0.0.1.vsix`
+4. Go to `Color Theme` in the Command Palette and select **Salman Theme**
+
+Or if published to Marketplace:
+
+1. Open Extensions sidebar (`Ctrl+Shift+X`)
+2. Search for `salman-theme`
+3. Click **Install**
+4. Activate from the Command Palette
+
+## Preview
+
+Coming soon — preview images will be added here.
+
+## Requirements
+
+None. Salman Theme works out of the box with all file types and languages supported by VS Code.
+
+## Recommended Fonts
+
+For the best experience, consider using:
+
+• JetBrains Mono  
+• Fira Code (with ligatures)  
+• Cascadia Code
+
+## Feedback and Contributions
+
+If you have suggestions, want to report an issue, or contribute to the theme:
+
+GitHub Repository: [github.com/hachiman/salman-theme](https://github.com/hachiman/salman-theme)
+
+## License
+
+MIT
